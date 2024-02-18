@@ -5,6 +5,8 @@ Made in Wordpress, Odoo, PHP and JavaScript. RadioForUs connects with LatinChain
 
 RadioForUs_wordpress contains the theme of RadioStations for Wordpress, enough to run a RadioStation list. It contains complete algorithms to control RadioStations with JavaScript.
 
+Run it in Astra wordpress theme.
+
 Links for the app:
 
 Mainnet:
