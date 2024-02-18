@@ -20,3 +20,9 @@ https://discord.com/invite/UDnCQupMP6
 
 Telegram:
 https://t.me/radioforusforpi
+
+Repository of RadioForUs:
+https://github.com/rockcesar/RadioForUsDevelopments
+
+Repository of our partner LatinChain Platform:
+https://github.com/pi-apps/LatinChain
