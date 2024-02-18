@@ -1,6 +1,8 @@
 # RadioForUs
 RadioForUs Repository. First app in Pi Ecosystem to listen radio stations around the World. Pi Hackathon winner at August, 2023.
 
+Made in Wordpress, Odoo, PHP and JavaScript.
+
 Links for the app:
 
 Mainnet:
