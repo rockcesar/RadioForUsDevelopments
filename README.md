@@ -7,6 +7,9 @@ RadioForUs_wordpress contains the theme of RadioStations for Wordpress, enough t
 
 Run it in Astra wordpress theme.
 
+For Pi Payment server side, refer to our other repository:
+https://github.com/pi-apps/LatinChain
+
 Links for the app:
 
 Mainnet:
@@ -23,6 +26,3 @@ https://t.me/radioforusforpi
 
 Repository of RadioForUs:
 https://github.com/rockcesar/RadioForUsDevelopments
-
-Repository of our partner LatinChain Platform:
-https://github.com/pi-apps/LatinChain
