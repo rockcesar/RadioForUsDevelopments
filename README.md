@@ -10,6 +10,12 @@ Run it in Astra wordpress theme.
 For Pi Payment server side, refer to our other repository:
 https://github.com/pi-apps/LatinChain
 
+Specifically at these lines:
+
+https://github.com/pi-apps/LatinChain/blob/b3f1414f0e3d77fab6038f21befcc0230dac8d9a/website_pinetwork_games_odoo/controllers/main.py#L58
+
+https://github.com/pi-apps/LatinChain/blob/b3f1414f0e3d77fab6038f21befcc0230dac8d9a/website_pinetwork_games_odoo/controllers/main.py#L99
+
 Links for the app:
 
 Mainnet:
