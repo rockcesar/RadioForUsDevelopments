@@ -18,6 +18,12 @@ RadioForUs payment: https://github.com/pi-apps/LatinChain/blob/b3f1414f0e3d77fab
 
 RadioForUs list of transactions: https://github.com/pi-apps/LatinChain/blob/b3f1414f0e3d77fab6038f21befcc0230dac8d9a/website_pinetwork_games_odoo/controllers/main.py#L99
 
+# Login
+
+For login refer to the API Docs:
+
+https://github.com/pi-apps/LatinChain/tree/main/docs
+
 # Links for the app
 
 Mainnet:
