@@ -3,7 +3,7 @@ RadioForUs Repository. First app in Pi Ecosystem to listen radio stations around
 
 Made in Wordpress, Odoo, PHP and JavaScript. RadioForUs connects with LatinChain Platform being partner of that Pi App.
 
-RadioForUs_wordpress contains the theme of RadioStations for Wordpress, enough to run a RadioStation list. It contains complete algorithms to control RadioStations with JavaScript.
+RadioForUs_wordpress/ contains the theme of RadioStations for Wordpress, enough to run a RadioStation list. It contains complete algorithms to control RadioStations with JavaScript.
 
 Run it in Astra wordpress theme.
 
