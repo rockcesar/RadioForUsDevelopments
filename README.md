@@ -8,7 +8,7 @@ RadioForUs_wordpress contains the theme of RadioStations for Wordpress, enough t
 Run it in Astra wordpress theme.
 
 For Pi Payment server side, refer to our other repository:
-https://github.com/pi-apps/LatinChain/blob/website_pinetwork_games_odoo/controllers/main.py#L58
+https://github.com/pi-apps/LatinChain/blob/main/website_pinetwork_games_odoo/controllers/main.py#L58
 
 Specifically at these lines:
 
