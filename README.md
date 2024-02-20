@@ -24,7 +24,9 @@ For login refer to the API Docs:
 
 https://github.com/pi-apps/LatinChain/tree/main/docs
 
-You can watch the code in the following file:
+You can watch the code in the following file: https://github.com/pi-apps/LatinChain/blob/main/website_pinetwork_odoo/controllers/main.py
+
+Specifically this line:
 https://github.com/pi-apps/LatinChain/blob/ebb8666fc855076c93a0105345102c823f020cd3/website_pinetwork_odoo/controllers/main.py#L132
 
 # Links for the app
