@@ -46,3 +46,6 @@ https://t.me/radioforusforpi
 
 Repository of RadioForUs:
 https://github.com/rockcesar/RadioForUsDevelopments
+
+Institutional Repository of RadioForUs:
+https://github.com/pi-apps/radio-for-pi
